@@ -5,7 +5,7 @@ Jvm changes are not exits.
 
 | Versions  | 
 | ------------- | 
-| v9 /
+| v9  |
 | v10 |
 | v11 |
 | v12 |
